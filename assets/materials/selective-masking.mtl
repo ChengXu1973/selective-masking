@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "selective-masking",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "5621acff-92b8-421c-84ea-c9bed0d3ea10"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      }
+    }
+  }
+}

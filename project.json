@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.4",
+  "name": "selective-masking",
+  "uuid": "912ec33e-f7c1-4821-8ddf-18e6c159721b",
+  "id": "db79faed-f6e1-4395-b937-9eefb73efc9a",
+  "isNew": false
+}
